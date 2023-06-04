@@ -1,0 +1,31 @@
+* {
+    background-color: rgb(118, 168, 118);
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(48, 73, 65);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+    font-size: 56px;
+}
+
+ol {
+    font-size: 33px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.lasagna {
+    color: white;
+}
+
+.pizza {
+    color: green;
+}
+
+.gnocchi {
+    color: white;
+}
